@@ -1,5 +1,14 @@
 # 💫 About Me:
-👋 Hi, I’m Lance—4th-year CS (Data Science)<br>🎯 Building a career in data science for real-world impact<br>📚 Lifelong learner who shares what I learn<br>🏅 I love a good challenge—joined (and won) coding & data comps<br>💪 Currently sharpening skills via personal + commissioned projects
+Hey! I’m **Lance**—a 4th-year CS student specializing in **Data Science** from the Philippines. I love turning messy, real-world data into decisions, prototypes, and simple tools people actually use. I learn fast, document as I go, and I’m happiest when I’m shipping something useful.
+
+🎓 Focus: machine learning, analytics, and a bit of data engineering (Python/R/SQL)
+🧠 Lifelong learner who shares notes and iterations
+🏁 I love a good challenge—joined (and won) coding & data competitions
+🚀 Currently: polishing personal builds and delivering a few commissioned projects
+🤝 I enjoy teaming up with domain experts to turn ideas into working products
+
+Lately I’ve been exploring RAG systems, demand forecasting, and clean data storytelling—the kind that moves a metric, not just a chart.
+If that’s your vibe too, feel free to reach out. Always down to collaborate or chat about cool data problems!
 
 
 ## 🌐 Socials:
@@ -14,14 +23,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KubangPawis&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KubangPawis&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=KubangPawis&icon=6&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
