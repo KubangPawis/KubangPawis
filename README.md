@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hey! I’m **Lance**—a 4th-year CS student specializing in **Data Science** from the Philippines. I love turning messy, real-world data into decisions, prototypes, and simple tools people actually use. I learn fast, document as I go, and I’m happiest when I’m shipping something useful.
 
-🎓 Focus: machine learning, analytics, and a bit of data engineering (Python/R/SQL)
-🧠 Lifelong learner who shares notes and iterations
-🏁 I love a good challenge—joined (and won) coding & data competitions
-🚀 Currently: polishing personal builds and delivering a few commissioned projects
-🤝 I enjoy teaming up with domain experts to turn ideas into working products
+* 🎓 Focus: machine learning, analytics, and a bit of data engineering (Python/R/SQL)
+* 🧠 Lifelong learner who shares notes and iterations
+* 🏁 I love a good challenge—joined (and won) coding & data competitions
+* 🚀 Currently: polishing personal builds and delivering a few commissioned projects
+* 🤝 I enjoy teaming up with domain experts to turn ideas into working products
 
 Lately I’ve been exploring RAG systems, demand forecasting, and clean data storytelling—the kind that moves a metric, not just a chart.
 If that’s your vibe too, feel free to reach out. Always down to collaborate or chat about cool data problems!
